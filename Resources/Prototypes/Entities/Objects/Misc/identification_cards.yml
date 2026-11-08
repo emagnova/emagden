@@ -1219,12 +1219,174 @@
     jobTitle: job-name-wizard
     jobIcon: JobIconWizard
 
-#ERT/Centcomm
+#Highcomm
 
 - type: entity
   parent: IDCardStandard
-  id: CentcomIDCard
-  name: command officer ID card
+  id: AdmiralIDCard
+  name: admiral ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: centcom
+    - state: stripe_top
+      color: &color-centcomm-top "#134975"
+    - state: stripe_bottom
+      color: &color-centcomm-bottom "#0d304d"
+    - sprite: *icon-rsi
+      offset: *icon-offset
+      state: CentOfficial
+  - type: Item
+    heldPrefix: blue
+  - type: PresetIdCard
+    job: Admiral
+
+- type: entity
+  parent: IDCardStandard
+  id: HighCommIDCard
+  name: high command official ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: centcom
+    - state: stripe_top
+      color: &color-centcomm-top "#134975"
+    - state: stripe_bottom
+      color: &color-centcomm-bottom "#0d304d"
+    - sprite: *icon-rsi
+      offset: *icon-offset
+      state: HighOfficial
+  - type: Item
+    heldPrefix: blue
+  - type: PresetIdCard
+    job: HighCommandOfficial
+
+- type: entity
+  parent: IDCardStandard
+  id: StratCommIDCard
+  name: strategic command official ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: centcom
+    - state: stripe_top
+      color: &color-centcomm-top "#134975"
+    - state: stripe_bottom
+      color: &color-centcomm-bottom "#0d304d"
+    - sprite: *icon-rsi
+      offset: *icon-offset
+      state: StratComm
+  - type: Item
+    heldPrefix: blue
+  - type: PresetIdCard
+    job: StrategicCommandOfficial
+
+#Centcomm
+
+- type: entity
+  parent: IDCardStandard
+  id: CentAffairsIDCard
+  name: central affairs official ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: centcom
+    - state: stripe_top
+      color: &color-centcomm-top "#134975"
+    - state: stripe_bottom
+      color: &color-centcomm-bottom "#0d304d"
+    - sprite: *icon-rsi
+      offset: *icon-offset
+      state: CentAffairs
+  - type: Item
+    heldPrefix: blue
+  - type: PresetIdCard
+    job: CentralAffairsOfficial
+
+- type: entity
+  parent: IDCardStandard
+  id: CentOffIDCard
+  name: central command official ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: centcom
+    - state: stripe_top
+      color: &color-centcomm-top "#134975"
+    - state: stripe_bottom
+      color: &color-centcomm-bottom "#0d304d"
+    - sprite: *icon-rsi
+      offset: *icon-offset
+      state: CentOfficial
+  - type: Item
+    heldPrefix: blue
+  - type: PresetIdCard
+    job: CentralCommandOfficial
+
+- type: entity
+  parent: IDCardStandard
+  id: MagistrateIDCard
+  name: central security magistrate ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: centcom
+    - state: stripe_top
+      color: &color-centcomm-top "#134975"
+    - state: stripe_bottom
+      color: &color-centcomm-bottom "#0d304d"
+    - sprite: *icon-rsi
+      offset: *icon-offset
+      state: CentMagistrate
+  - type: Item
+    heldPrefix: blue
+  - type: PresetIdCard
+    job: CentralCommandMagistrate
+
+- type: entity
+  parent: IDCardStandard
+  id: MarshalIDCard
+  name: central security marshal ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: centcom
+    - state: stripe_top
+      color: &color-centcomm-top "#134975"
+    - state: stripe_bottom
+      color: &color-centcomm-bottom "#0d304d"
+    - sprite: *icon-rsi
+      offset: *icon-offset
+      state: CentMarshal
+  - type: Item
+    heldPrefix: blue
+  - type: PresetIdCard
+    job: CentralSecurityMarshal
+
+- type: entity
+  parent: IDCardStandard
+  id: CentInternIDCard
+  name: central security marshal ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: centcom
+    - state: stripe_top
+      color: &color-centcomm-top "#134975"
+    - state: stripe_bottom
+      color: &color-centcomm-bottom "#0d304d"
+    - sprite: *icon-rsi
+      offset: *icon-offset
+      state: CentIntern
+  - type: Item
+    heldPrefix: blue
+  - type: PresetIdCard
+    job: CentralCommandIntern
+
+- type: entity
+  parent: IDCardStandard
+  id: RepresentativeIDCard
+  name: nanotrasen rep ID card
   components:
   - type: Sprite
     layers:
@@ -1239,7 +1401,9 @@
   - type: Item
     heldPrefix: blue
   - type: PresetIdCard
-    job: CentralCommandOfficial
+    job: NanotrasenRepresentative
+
+#Task Force
 
 - type: entity
   parent: IDCardStandard
