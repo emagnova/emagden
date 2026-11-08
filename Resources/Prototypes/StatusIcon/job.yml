@@ -563,67 +563,67 @@
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconCentAffairsOfficial
+  id: JobIconCentAffairs
   icon:
     sprite: *icon-rsi
-    state: CentAffairsOfficial
-  jobName: job-name-centaffairsoff
+    state: CentAffairs
+  jobName: job-name-centaffairs
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconCentCommIntern
+  id: JobIconCentIntern
   icon:
     sprite: *icon-rsi
-    state: CentCommIntern
-  jobName: job-name-centcommintern
+    state: CentIntern
+  jobName: job-name-centintern
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconCentCommOfficial
+  id: JobIconCentMagistrate
   icon:
     sprite: *icon-rsi
-    state: CentCommOfficial
-  jobName: job-name-centcommoff
+    state: CentMagistrate
+  jobName: job-name-centmagistrate
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconCentSecurityMarshal
+  id: JobIconCentMarshal
   icon:
     sprite: *icon-rsi
-    state: CentSecurityMarshal
-  jobName: job-name-centsecmarsh
+    state: CentMarshal
+  jobName: job-name-centmarshal
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconCentSecurityOfficial
+  id: JobIconCentOfficial
   icon:
     sprite: *icon-rsi
-    state: CentSecurityOfficial
-  jobName: job-name-centsecoff
+    state: CentOfficial
+  jobName: job-name-centofficial
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconHighCommAdmiral
+  id: JobIconAdmiral
   icon:
     sprite: *icon-rsi
-    state: HighCommAdmiral
-  jobName: job-name-highcommadm
+    state: Admiral
+  jobName: job-name-admiral
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconHighCommOfficial
+  id: JobIconHighOfficial
   icon:
     sprite: *icon-rsi
-    state: HighCommOfficial
-  jobName: job-name-highcommoff
+    state: HighOfficial
+  jobName: job-name-highofficial
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconStratCommOfficial
+  id: JobIconStratComm
   icon:
     sprite: *icon-rsi
-    state: StratCommOfficial
-  jobName: job-name-stratcommoff
+    state: StratComm
+  jobName: job-name-StratComm
 
 - type: jobIcon
   parent: JobIcon

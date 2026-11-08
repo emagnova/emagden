@@ -140,9 +140,17 @@
   groupName: job-icon-group-centcomm
   sprite:
     sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: Nanotrasen
+    state: CentOfficial
   icons:
   - JobIconNanotrasen
+  - JobIconAdmiral
+  - JobIconCentAffairs
+  - JobIconCentIntern
+  - JobIconCentMagistrate
+  - JobIconCentMarshal
+  - JobIconCentOfficial
+  - JobIconHighOfficial
+  - JobIconStratComm
 
 - type: jobIconGroup
   id: TaskForceIconGroup

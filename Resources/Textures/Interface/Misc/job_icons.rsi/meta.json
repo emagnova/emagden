@@ -38,19 +38,19 @@
             "name": "CBURN"
         },
         {
-            "name": "CentAffairsOfficial"
+            "name": "CentAffairs"
         },
         {
-            "name": "CentCommIntern"
+            "name": "CentIntern"
         },
         {
-            "name": "CentCommOfficial"
+            "name": "CentOfficial"
         },
         {
-            "name": "CentSecurityMarshal"
+            "name": "CentMagistrate"
         },
         {
-            "name": "CentSecurityOfficial"
+            "name": "CentMarshal"
         },
         {
             "name": "Chaplain"
@@ -110,10 +110,10 @@
             "name": "HeadRevolutionary"
         },
         {
-            "name": "HighCommAdmiral"
+            "name": "HighAdmiral"
         },
         {
-            "name": "HighCommOfficial"
+            "name": "HighOfficial"
         },
         {
             "name": "InitialInfected"
@@ -209,9 +209,6 @@
             "name": "SeniorEngineer"
         },
         {
-            "name": "StratCommOfficial"
-        },
-        {
             "name": "SeniorOfficer"
         },
         {
@@ -231,6 +228,9 @@
         },
         {
             "name": "StationEngineer"
+        },
+        {
+            "name": "StratComm"
         },
         {
             "name": "Sus"
