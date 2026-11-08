@@ -1,12 +1,12 @@
 - type: job
-  id: CentralCommandOfficial
-  name: job-name-centcommoff
-  description: job-description-centcommoff
-  playTimeTracker: JobCentralCommandOfficial
+  id: CentralSecurityMagistrate
+  name: job-name-centsecmag
+  description: job-description-centsecmag
+  playTimeTracker: JobCentralSecurityMagistrate
   setPreference: false
   startingGear: CentcommGear
-  icon: "JobIconNanotrasen"
-  supervisors: job-supervisors-hos
+  icon: "JobIconCentMagistrate"
+  supervisors: job-supervisors-centcom
   accessGroups:
   - AllAccess
   access:

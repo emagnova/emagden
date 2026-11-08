@@ -143,14 +143,11 @@
     state: CentOfficial
   icons:
   - JobIconNanotrasen
-  - JobIconAdmiral
   - JobIconCentAffairs
   - JobIconCentIntern
   - JobIconCentMagistrate
   - JobIconCentMarshal
   - JobIconCentOfficial
-  - JobIconHighOfficial
-  - JobIconStratComm
 
 - type: jobIconGroup
   id: TaskForceIconGroup

@@ -13,10 +13,15 @@
   name: department-CentralCommand
   description: department-CentralCommand-description
   color: "#0c344d"
-  weight: 120 # Highest weight of all NT departments; Central Command's authority is absolute
+  weight: 110 # Manages Task Force emergency responses, reports to NT High Command
   editorHidden: true
   roles:
+  - CentralAffairsOfficial
+  - CentralCommandIntern
   - CentralCommandOfficial
+  - CentralSecurityMagistrate
+  - CentralSecurityMarshal
+  - NanotrasenRep
 
 - type: department
   id: Civilian
@@ -34,7 +39,7 @@
   name: department-Command
   description: department-Command-description
   color: "#334E6D"
-  weight: 100 # Highest weight of all "regular" crew departments
+  weight: 90 # Highest weight of all "regular" crew departments
   primary: false
   roles:
   - Captain
@@ -55,6 +60,18 @@
   - ChiefEngineer
   - StationEngineer
   - TechnicalAssistant
+
+- type: department
+  id: HighCommand
+  name: department-HighCommand
+  description: department-CentralCommand-description
+  color: "#0c344d"
+  weight: 120 # Highest weight of all NT departments; Central Command's authority is absolute
+  editorHidden: true
+  roles:
+  - Admiral
+  - HighCommandOfficial
+  - StrategicCommandOfficial
 
 - type: department
   id: Medical
@@ -128,7 +145,7 @@
   name: department-Task-Force
   description: department-Task-Force-description
   color: "#0c344d"
-  weight: 110 # Higher weight than Command, but below Central Command
+  weight: 100 # Higher weight than Command, but below Central Command
   editorHidden: true
   roles:
   - CBURN
