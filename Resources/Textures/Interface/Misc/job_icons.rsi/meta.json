@@ -11,6 +11,9 @@
             "name": "Admin"
         },
         {
+            "name": "Admiral"
+        },
+        {
             "name": "AtmosphericTechnician"
         },
         {
@@ -44,13 +47,13 @@
             "name": "CentIntern"
         },
         {
-            "name": "CentOfficial"
-        },
-        {
             "name": "CentMagistrate"
         },
         {
             "name": "CentMarshal"
+        },
+        {
+            "name": "CentOfficial"
         },
         {
             "name": "Chaplain"
@@ -108,9 +111,6 @@
         },
         {
             "name": "HeadRevolutionary"
-        },
-        {
-            "name": "HighAdmiral"
         },
         {
             "name": "HighOfficial"
