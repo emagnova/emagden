@@ -61,7 +61,7 @@ job-description-highcommofficial = Direct your sector's Central Command personne
 job-description-stratcommoff = Authorize strategic nuclear intervention on behalf of Nanotrasen High Command.
 
 # Central Command
-job-description-centaffrep = Perform inspections and sort mountains of paperwork on behalf of Central Command.
+job-description-centaffoff = Perform inspections and sort mountains of paperwork on behalf of Central Command.
 job-description-centcommint = Serve the whims of Central Command's interests to finally earn a promotion.
 job-description-centcommoff = Manage Central Command personnel, emergency response, and ensure station crew respect Nanotrasen's authority.
 job-description-centsecmag = Protect Nanotrasen's corporate interests through strategic legal defense.
