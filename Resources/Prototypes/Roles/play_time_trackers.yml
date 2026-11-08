@@ -5,6 +5,9 @@
 
 # Jobs
 - type: playTimeTracker
+  id: JobAdmiral
+
+- type: playTimeTracker
   id: JobAtmosphericTechnician
 
 - type: playTimeTracker
@@ -23,7 +26,19 @@
   id: JobCargoTechnician
 
 - type: playTimeTracker
+  id: JobCentralAffairsOfficial
+
+- type: playTimeTracker
+  id: JobCentralCommandIntern
+
+- type: playTimeTracker
   id: JobCentralCommandOfficial
+
+- type: playTimeTracker
+  id: JobCentralSecurityMagistrate
+
+- type: playTimeTracker
+  id: JobCentralSecurityMarshal
 
 - type: playTimeTracker
   id: JobChaplain
@@ -77,6 +92,9 @@
   id: JobHeadOfSecurity
 
 - type: playTimeTracker
+  id: JobHighCommandOfficial
+
+- type: playTimeTracker
   id: JobJanitor
 
 - type: playTimeTracker
@@ -96,6 +114,9 @@
 
 - type: playTimeTracker
   id: JobMusician
+
+- type: playTimeTracker
+  id: JobNanotrasenRepresentative
 
 - type: playTimeTracker
   id: JobPassenger
@@ -138,6 +159,9 @@
 
 - type: playTimeTracker
   id: JobStationEngineer
+
+- type: playTimeTracker
+  id: JobStrategicCommandOfficial
 
 - type: playTimeTracker
   id: JobTechnicalAssistant

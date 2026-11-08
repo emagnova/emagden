@@ -1,8 +1,8 @@
 - type: job
-  id: CentralAffairsRepresentative
-  name: job-name-centaffrep
-  description: job-description-centaffrep
-  playTimeTracker: JobCentralAffairsRepresentative
+  id: CentralAffairsOfficial
+  name: job-name-centaffoff
+  description: job-description-centaffoff
+  playTimeTracker: JobCentralAffairsOfficial
   setPreference: false
   startingGear: CentcommGear
   icon: "JobIconCentAffairs"
