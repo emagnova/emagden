@@ -55,8 +55,18 @@ job-description-passenger = Enjoy your stay aboard the station with no obligatio
 job-description-borg = Use your robotic chassis to perform a wide variety of specialized tasks.
 job-description-station-ai = Remotely interface with the station's cameras, airlocks, radio, and other electronic devices from the safety of your core.
 
+# High Command
+job-description-admiral = Manage your sector as the superior authority over Nanotrasen's fleet.
+job-description-highcommofficial = Direct your sector's Central Command personnel to execute Nanotrasen's will.
+job-description-stratcommoff = Authorize strategic nuclear intervention on behalf of Nanotrasen High Command.
+
 # Central Command
-job-description-centcommoff = Act as liaison to the newest state-of-the-art space station in Nanotrasen's fleet.
+job-description-centaffrep = Perform inspections and sort mountains of paperwork on behalf of Central Command.
+job-description-centcommint = Serve the whims of Central Command's interests to finally earn a promotion.
+job-description-centcommoff = Manage Central Command personnel, emergency response, and ensure station crew respect Nanotrasen's authority.
+job-description-centsecmag = Protect Nanotrasen's corporate interests through strategic legal defense.
+job-description-centsecmarsh = Coordinate with task forces to defend Central Command personnel and their assets.
+job-description-nanotrasenrep = Act as liaison to the newest state-of-the-art space station in Nanotrasen's fleet.
 
 # Task Force
 job-description-cburn = Cleanse the station of all biological contaminants.

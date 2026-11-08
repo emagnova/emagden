@@ -3,6 +3,7 @@ department-Civilian = Civilian
 department-Command = Command
 department-CentralCommand = Central Command
 department-Engineering = Engineering
+department-HighCommand = High Command
 department-Medical = Medical
 department-Science = Science
 department-Security = Security

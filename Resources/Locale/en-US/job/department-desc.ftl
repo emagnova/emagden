@@ -3,6 +3,7 @@ department-Civilian-description = Crew members without formal jobs.
 department-Command-description = Manage the crew and keep them working efficiently.
 department-CentralCommand-description = Manage the crew and keep them working efficiently.
 department-Engineering-description = Maintain and repair the station.
+department-HighCommand-description = Ensure the authority of Central Command is respected and enforced.
 department-Medical-description = Keep the crew healthy.
 department-Science-description = Research and develop new technologies for the station.
 department-Security-description = Protect the station and keep the peace.

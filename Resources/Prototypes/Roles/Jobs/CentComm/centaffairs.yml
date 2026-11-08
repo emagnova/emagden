@@ -1,12 +1,12 @@
 - type: job
-  id: CentralCommandOfficial
-  name: job-name-centcommoff
-  description: job-description-centcommoff
-  playTimeTracker: JobCentralCommandOfficial
+  id: CentralAffairsRepresentative
+  name: job-name-centaffrep
+  description: job-description-centaffrep
+  playTimeTracker: JobCentralAffairsRepresentative
   setPreference: false
   startingGear: CentcommGear
-  icon: "JobIconCentOfficial"
-  supervisors: job-supervisors-hos
+  icon: "JobIconCentAffairs"
+  supervisors: job-supervisors-centcom
   accessGroups:
   - AllAccess
   access:

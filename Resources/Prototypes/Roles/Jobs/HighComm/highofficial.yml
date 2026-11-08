@@ -6,7 +6,7 @@
   setPreference: false
   startingGear: CentcommGear
   icon: "JobIconHighOfficial"
-  supervisors: job-supervisors-hos
+  supervisors: job-supervisors-nobody
   accessGroups:
   - AllAccess
   access:
