@@ -941,7 +941,7 @@
   description: Light green sign of walking bureaucracy.
   components:
   - type: Pda
-    id: CentcomIDCard
+    id: CentOffIDCard
     penSlot:
       startingItem: PenCentcom
       priority: -1

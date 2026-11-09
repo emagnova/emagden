@@ -4,7 +4,7 @@
   description: job-description-nanotrasenrep
   playTimeTracker: JobNanotrasenRepresentative
   setPreference: false
-  startingGear: CentcommGear
+  startingGear: NanoRepGear
   icon: "JobIconNanotrasen"
   supervisors: job-supervisors-centcom
   accessGroups:
@@ -16,7 +16,7 @@
     implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
 
 - type: startingGear
-  id: CentcommGear
+  id: NanoRepGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCentcomOfficial
     shoes: ClothingShoesBootsCombatFilled
@@ -32,8 +32,8 @@
 
 
 - type: chameleonOutfit
-  id: CentralCommandOfficialOutfit
-  job: CentralCommandOfficial
+  id: NanotrasenRepresentativeOutfit
+  job: NanotrasenRepresentative
   hasMindShield: true
   equipment:
     neck: ClothingNeckScarfStripedCentcom

@@ -4,7 +4,7 @@
   description: job-description-stratcommoff
   playTimeTracker: JobStrategicCommandOfficial
   setPreference: false
-  startingGear: CentcommGear
+  startingGear: StratCommGear
   icon: "JobIconStratComm"
   supervisors: job-supervisors-nobody
   accessGroups:
@@ -16,7 +16,7 @@
     implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
 
 - type: startingGear
-  id: CentcommGear
+  id: StratCommGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCentcomOfficial
     shoes: ClothingShoesBootsCombatFilled

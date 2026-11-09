@@ -1229,10 +1229,6 @@
   - type: Sprite
     layers:
     - state: centcom
-    - state: stripe_top
-      color: &color-centcomm-top "#134975"
-    - state: stripe_bottom
-      color: &color-centcomm-bottom "#0d304d"
     - sprite: *icon-rsi
       offset: *icon-offset
       state: CentOfficial
@@ -1249,10 +1245,6 @@
   - type: Sprite
     layers:
     - state: centcom
-    - state: stripe_top
-      color: &color-centcomm-top "#134975"
-    - state: stripe_bottom
-      color: &color-centcomm-bottom "#0d304d"
     - sprite: *icon-rsi
       offset: *icon-offset
       state: HighOfficial
@@ -1269,10 +1261,6 @@
   - type: Sprite
     layers:
     - state: centcom
-    - state: stripe_top
-      color: &color-centcomm-top "#134975"
-    - state: stripe_bottom
-      color: &color-centcomm-bottom "#0d304d"
     - sprite: *icon-rsi
       offset: *icon-offset
       state: StratComm
@@ -1291,10 +1279,6 @@
   - type: Sprite
     layers:
     - state: centcom
-    - state: stripe_top
-      color: &color-centcomm-top "#134975"
-    - state: stripe_bottom
-      color: &color-centcomm-bottom "#0d304d"
     - sprite: *icon-rsi
       offset: *icon-offset
       state: CentAffairs
@@ -1311,10 +1295,6 @@
   - type: Sprite
     layers:
     - state: centcom
-    - state: stripe_top
-      color: &color-centcomm-top "#134975"
-    - state: stripe_bottom
-      color: &color-centcomm-bottom "#0d304d"
     - sprite: *icon-rsi
       offset: *icon-offset
       state: CentOfficial
@@ -1331,10 +1311,6 @@
   - type: Sprite
     layers:
     - state: centcom
-    - state: stripe_top
-      color: &color-centcomm-top "#134975"
-    - state: stripe_bottom
-      color: &color-centcomm-bottom "#0d304d"
     - sprite: *icon-rsi
       offset: *icon-offset
       state: CentMagistrate
@@ -1351,10 +1327,6 @@
   - type: Sprite
     layers:
     - state: centcom
-    - state: stripe_top
-      color: &color-centcomm-top "#134975"
-    - state: stripe_bottom
-      color: &color-centcomm-bottom "#0d304d"
     - sprite: *icon-rsi
       offset: *icon-offset
       state: CentMarshal
@@ -1371,10 +1343,6 @@
   - type: Sprite
     layers:
     - state: centcom
-    - state: stripe_top
-      color: &color-centcomm-top "#134975"
-    - state: stripe_bottom
-      color: &color-centcomm-bottom "#0d304d"
     - sprite: *icon-rsi
       offset: *icon-offset
       state: CentIntern
@@ -1391,10 +1359,6 @@
   - type: Sprite
     layers:
     - state: centcom
-    - state: stripe_top
-      color: &color-centcomm-top "#134975"
-    - state: stripe_bottom
-      color: &color-centcomm-bottom "#0d304d"
     - sprite: *icon-rsi
       offset: *icon-offset
       state: Nanotrasen

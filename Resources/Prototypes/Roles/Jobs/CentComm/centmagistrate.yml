@@ -4,7 +4,7 @@
   description: job-description-centsecmag
   playTimeTracker: JobCentralSecurityMagistrate
   setPreference: false
-  startingGear: CentcommGear
+  startingGear: CentMagistrateGear
   icon: "JobIconCentMagistrate"
   supervisors: job-supervisors-centcom
   accessGroups:
@@ -16,7 +16,7 @@
     implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
 
 - type: startingGear
-  id: CentcommGear
+  id: CentMagistrateGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCentcomOfficial
     shoes: ClothingShoesBootsCombatFilled
@@ -32,8 +32,8 @@
 
 
 - type: chameleonOutfit
-  id: CentralCommandOfficialOutfit
-  job: CentralCommandOfficial
+  id: CentralSecurityMagistrateOutfit
+  job: CentralSecurityMagistrate
   hasMindShield: true
   equipment:
     neck: ClothingNeckScarfStripedCentcom

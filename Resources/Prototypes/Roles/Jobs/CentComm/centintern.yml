@@ -4,7 +4,7 @@
   description: job-description-centcommint
   playTimeTracker: JobCentralCommandIntern
   setPreference: false
-  startingGear: CentcommGear
+  startingGear: CentInternGear
   icon: "JobIconCentIntern"
   supervisors: job-supervisors-centcom
   accessGroups:
@@ -16,7 +16,7 @@
     implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
 
 - type: startingGear
-  id: CentcommGear
+  id: CentInternGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCentcomOfficial
     shoes: ClothingShoesBootsCombatFilled
@@ -32,8 +32,8 @@
 
 
 - type: chameleonOutfit
-  id: CentralCommandOfficialOutfit
-  job: CentralCommandOfficial
+  id: CentralCommandInternOutfit
+  job: CentralCommandIntern
   hasMindShield: true
   equipment:
     neck: ClothingNeckScarfStripedCentcom

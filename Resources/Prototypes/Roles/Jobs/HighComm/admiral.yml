@@ -4,7 +4,7 @@
   description: job-description-admiral
   playTimeTracker: JobAdmiral
   setPreference: false
-  startingGear: CentcommGear
+  startingGear: AdmiralGear
   icon: "JobIconAdmiral"
   supervisors: job-supervisors-nobody
   accessGroups:
@@ -16,7 +16,7 @@
     implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
 
 - type: startingGear
-  id: CentcommGear
+  id: AdmiralGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCentcomOfficial
     shoes: ClothingShoesBootsCombatFilled

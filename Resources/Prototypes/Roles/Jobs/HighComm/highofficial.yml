@@ -4,7 +4,7 @@
   description: job-description-highcommofficial
   playTimeTracker: JobHighCommandOfficial
   setPreference: false
-  startingGear: CentcommGear
+  startingGear: HighOffGear
   icon: "JobIconHighOfficial"
   supervisors: job-supervisors-nobody
   accessGroups:
@@ -16,7 +16,7 @@
     implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
 
 - type: startingGear
-  id: CentcommGear
+  id: HighOffGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCentcomOfficial
     shoes: ClothingShoesBootsCombatFilled

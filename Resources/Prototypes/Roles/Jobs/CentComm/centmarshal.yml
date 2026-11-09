@@ -4,7 +4,7 @@
   description: job-description-centsecmarsh
   playTimeTracker: JobCentralSecurityMarshal
   setPreference: false
-  startingGear: CentcommGear
+  startingGear: CentMarshGear
   icon: "JobIconCentOfficial"
   supervisors: job-supervisors-centcom
   accessGroups:
@@ -16,7 +16,7 @@
     implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
 
 - type: startingGear
-  id: CentcommGear
+  id: CentMarshGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCentcomOfficial
     shoes: ClothingShoesBootsCombatFilled
@@ -32,8 +32,8 @@
 
 
 - type: chameleonOutfit
-  id: CentralCommandOfficialOutfit
-  job: CentralCommandOfficial
+  id: CentralSecurityMarshalOutfit
+  job: CentralSecurityMarshal
   hasMindShield: true
   equipment:
     neck: ClothingNeckScarfStripedCentcom
