@@ -18,18 +18,32 @@
 - type: startingGear
   id: CentMagistrateGear
   equipment:
-    jumpsuit: ClothingUniformJumpsuitCentcomOfficial
-    shoes: ClothingShoesBootsCombatFilled
-    head: ClothingHeadHatCentcom
+    jumpsuit: ClothingUniformJumpsuitCentcomAgent
+    shoes: ClothingShoesLeather
+    head: BladedFlatcapBrown
     eyes: ClothingEyesGlassesCommand
-    gloves: ClothingHandsGlovesColorBlack
-    outerClothing: ClothingOuterArmorCentcommCarapace
+    neck: ClothingNeckLawyerbadge
+    gloves: ClothingHandsGlovesHop
+    back: ClothingBackpackSatchelLeather
     id: CentcomPDA
-    ears: ClothingHeadsetAltCentCom
-    belt: WeaponPistolN1984
-    pocket1: BoxFolderCentComClipboardThreePapers
-    pocket2: PenCentcom
-
+    ears: ClothingHeadsetCentCom
+    belt: BoxFolderCentComClipboardThreePapers
+    pocket1: BookSpaceLaw
+    pocket2: WeaponDisabler
+  storage:
+    back:
+    - BoxSurvival
+    - CaneSheathFilled
+    - ClothingOuterRobesJudge
+    - ClothingHeadHatPwig
+    - BoxFolderCentComThreePapers
+    - BoxFolderBlueThreePapers
+    - RubberStampApproved
+    - RubberStampDenied
+    - RubberStampCentcom
+    - DrinkMugOne
+  inhand:
+    - BriefcaseBrownFilled
 
 - type: chameleonOutfit
   id: CentralSecurityMagistrateOutfit

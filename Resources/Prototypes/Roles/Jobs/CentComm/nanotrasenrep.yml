@@ -25,7 +25,7 @@
     neck: ClothingNeckTieSerious
     gloves: ClothingHandsGlovesHop
     back: ClothingBackpackSatchelLeather
-    id: CentcomPDA
+    id: VisitorLawyerPDA
     ears: ClothingHeadsetAltCommand
     belt: BoxFolderClipboardThreePapers
     pocket1: BibleNanoTrasen
@@ -43,7 +43,6 @@
     - RubberStampApproved
     - RubberStampDenied
     - NanotrasenFlippo
-
 
 - type: chameleonOutfit
   id: NanotrasenRepresentativeOutfit
