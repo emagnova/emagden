@@ -18,23 +18,32 @@
 - type: startingGear
   id: NanoRepGear
   equipment:
-    jumpsuit: ClothingUniformJumpsuitCentcomOfficial
-    shoes: ClothingShoesBootsCombatFilled
-    head: ClothingHeadHatCentcom
+    jumpsuit: ClothingUniformJumpsuitLawyerBlue
+    shoes: ClothingShoesLeather
+    head: ClothingHeadHatFedoraBrown
     eyes: ClothingEyesGlassesCommand
-    gloves: ClothingHandsGlovesColorBlack
-    outerClothing: ClothingOuterArmorCentcommCarapace
+    gloves: ClothingHandsGlovesHop
+    back: ClothingBackpackSatchelLeather
     id: CentcomPDA
-    ears: ClothingHeadsetAltCentCom
-    belt: WeaponPistolN1984
-    pocket1: BoxFolderCentComClipboardThreePapers
-    pocket2: PenCentcom
+    ears: ClothingHeadsetAltCommand
+    belt: BoxFolderClipboardThreePapers
+    pocket1: BibleNanoTrasen
+    pocket2: WeaponDisabler
+  back:
+  - OffsetCaneNT
+  - BoxSurvivalEngineering
+  - CigarGoldCase
+  - TowelColorNT
+  - ClothingNeckCloakNanotrasen
+  - BoxFolderBlueThreePapers
+  - NTHandyFlag
+  - EncryptionKeyCentCom
+  - RubberStampApproved
+  - RubberStampDenied
+  - NanotrasenFlippo
 
 
 - type: chameleonOutfit
   id: NanotrasenRepresentativeOutfit
   job: NanotrasenRepresentative
   hasMindShield: true
-  equipment:
-    neck: ClothingNeckScarfStripedCentcom
-    mask: ClothingMaskGasCentcom
