@@ -22,6 +22,7 @@
     shoes: ClothingShoesLeather
     head: ClothingHeadHatFedoraBrown
     eyes: ClothingEyesGlassesCommand
+    neck: ClothingNeckTieSerious
     gloves: ClothingHandsGlovesHop
     back: ClothingBackpackSatchelLeather
     id: CentcomPDA
@@ -29,18 +30,19 @@
     belt: BoxFolderClipboardThreePapers
     pocket1: BibleNanoTrasen
     pocket2: WeaponDisabler
-  back:
-  - OffsetCaneNT
-  - BoxSurvivalEngineering
-  - CigarGoldCase
-  - TowelColorNT
-  - ClothingNeckCloakNanotrasen
-  - BoxFolderBlueThreePapers
-  - NTHandyFlag
-  - EncryptionKeyCentCom
-  - RubberStampApproved
-  - RubberStampDenied
-  - NanotrasenFlippo
+  storage:
+    back:
+    - OffsetCaneNT
+    - BoxSurvivalEngineering
+    - CigarGoldCase
+    - TowelColorNT
+    - ClothingNeckCloakNanotrasen
+    - BoxFolderBlueThreePapers
+    - NTHandyFlag
+    - EncryptionKeyCentCom
+    - RubberStampApproved
+    - RubberStampDenied
+    - NanotrasenFlippo
 
 
 - type: chameleonOutfit
