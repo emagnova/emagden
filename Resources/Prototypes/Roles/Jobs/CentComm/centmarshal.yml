@@ -20,21 +20,33 @@
   equipment:
     jumpsuit: ClothingUniformJumpsuitCentcomOfficial
     shoes: ClothingShoesBootsCombatFilled
-    head: ClothingHeadHatCentcom
-    eyes: ClothingEyesGlassesCommand
-    gloves: ClothingHandsGlovesColorBlack
-    outerClothing: ClothingOuterArmorCentcommCarapace
+    head: ClothingHeadHelmetSwat
+    eyes: ClothingEyesGlassesSecurity
+    neck: Whistle
+    gloves: ClothingHandsGlovesCombat
+    back: ClothingBackpackSatchelLeather
     id: CentcomPDA
     ears: ClothingHeadsetAltCentCom
-    belt: WeaponPistolN1984
-    pocket1: BoxFolderCentComClipboardThreePapers
-    pocket2: PenCentcom
-
+    belt: Truncheon
+    pocket1: BookSpaceLaw
+    pocket2: WeaponDisabler
+    suitstorage: WeaponShotgunEnforcerRubber
+  storage:
+    back:
+    - BoxSurvivalMilitaryDouble
+    - MedkitCombatFilled
+    - BoxBeanbag
+    - TelescopicShield
+    - DrinkMREFlask
+    - BoxFolderCentComClipboardThreePapers
+    - PinpointerUniversal
+    - MagazineMagnum
+    - WeaponPistolN1984
+    - HoloprojectorSecurity
+    - Zipties
+    - Zipties
 
 - type: chameleonOutfit
   id: CentralSecurityMarshalOutfit
   job: CentralSecurityMarshal
   hasMindShield: true
-  equipment:
-    neck: ClothingNeckScarfStripedCentcom
-    mask: ClothingMaskGasCentcom
