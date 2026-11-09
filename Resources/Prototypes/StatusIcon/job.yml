@@ -559,7 +559,7 @@
   icon:
     sprite: *icon-rsi
     state: Nanotrasen
-  jobName: job-name-nanotrasen
+  jobName: job-name-nanotrasenrep
 
 - type: jobIcon
   parent: JobIcon
@@ -567,7 +567,7 @@
   icon:
     sprite: *icon-rsi
     state: CentAffairs
-  jobName: job-name-centaffairs
+  jobName: job-name-centaffoff
 
 - type: jobIcon
   parent: JobIcon
@@ -575,7 +575,7 @@
   icon:
     sprite: *icon-rsi
     state: CentIntern
-  jobName: job-name-centintern
+  jobName: job-name-centcommint
 
 - type: jobIcon
   parent: JobIcon
@@ -583,7 +583,7 @@
   icon:
     sprite: *icon-rsi
     state: CentMagistrate
-  jobName: job-name-centmagistrate
+  jobName: job-name-centsecmag
 
 - type: jobIcon
   parent: JobIcon
@@ -591,7 +591,7 @@
   icon:
     sprite: *icon-rsi
     state: CentMarshal
-  jobName: job-name-centmarshal
+  jobName: job-name-centsecmarsh
 
 - type: jobIcon
   parent: JobIcon
@@ -599,7 +599,7 @@
   icon:
     sprite: *icon-rsi
     state: CentOfficial
-  jobName: job-name-centofficial
+  jobName: job-name-centcommoff
 
 - type: jobIcon
   parent: JobIcon
@@ -615,7 +615,7 @@
   icon:
     sprite: *icon-rsi
     state: HighOfficial
-  jobName: job-name-highofficial
+  jobName: job-name-highcommoff
 
 - type: jobIcon
   parent: JobIcon
@@ -623,7 +623,7 @@
   icon:
     sprite: *icon-rsi
     state: StratComm
-  jobName: job-name-StratComm
+  jobName: job-name-stratcommoff
 
 - type: jobIcon
   parent: JobIcon
