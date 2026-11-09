@@ -49,6 +49,3 @@
   id: CentralSecurityMagistrateOutfit
   job: CentralSecurityMagistrate
   hasMindShield: true
-  equipment:
-    neck: ClothingNeckScarfStripedCentcom
-    mask: ClothingMaskGasCentcom

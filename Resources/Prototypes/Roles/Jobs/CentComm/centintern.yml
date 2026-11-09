@@ -18,23 +18,29 @@
 - type: startingGear
   id: CentInternGear
   equipment:
-    jumpsuit: ClothingUniformJumpsuitCentcomOfficial
-    shoes: ClothingShoesBootsCombatFilled
-    head: ClothingHeadHatCentcom
+    jumpsuit: ClothingUniformJumpsuitCentcomOfficer
+    shoes: ClothingShoesColorBrown
+    head: ClothingHeadHatBeret
     eyes: ClothingEyesGlassesCommand
-    gloves: ClothingHandsGlovesColorBlack
-    outerClothing: ClothingOuterArmorCentcommCarapace
+    neck: ClothingNeckTieSerious
+    gloves: Wristwatch
+    back: ClothingBackpackSatchelLeather
     id: CentcomPDA
-    ears: ClothingHeadsetAltCentCom
-    belt: WeaponPistolN1984
-    pocket1: BoxFolderCentComClipboardThreePapers
-    pocket2: PenCentcom
-
+    ears: ClothingHeadsetCentCom
+    belt: BoxFolderClipboardThreePapers
+    pocket1: BookTheBookOfControl
+    pocket2: WeaponDisabler
+  storage:
+    back:
+    - BoxSurvival
+    - FoodBoxDonut
+    - BoxFolderBlueThreePapers
+    - FoodSnackSwirlLollipop
+    - ClothingHeadPropellerHat
+    - ClothingEyesGlassesJamjar
+    - ClothingShoesSkates
 
 - type: chameleonOutfit
   id: CentralCommandInternOutfit
   job: CentralCommandIntern
   hasMindShield: true
-  equipment:
-    neck: ClothingNeckScarfStripedCentcom
-    mask: ClothingMaskGasCentcom
