@@ -24,6 +24,7 @@
     eyes: ClothingEyesGlassesSecurity
     neck: Whistle
     gloves: ClothingHandsGlovesCombat
+    outerClothing: ClothingOuterArmorCentcommCarapace
     back: ClothingBackpackSatchelLeather
     id: CentcomPDA
     ears: ClothingHeadsetAltCentCom

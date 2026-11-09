@@ -34,14 +34,14 @@
     back:
     - BoxSurvival
     - CaneSheathFilled
-    - ClothingOuterRobesJudge
-    - ClothingHeadHatPwig
     - BoxFolderCentComThreePapers
     - BoxFolderBlueThreePapers
+    - ClothingOuterRobesJudge
     - RubberStampApproved
     - RubberStampDenied
     - RubberStampCentcom
     - DrinkMugOne
+    - ClothingHeadHatPwig
   inhand:
     - BriefcaseBrownFilled
 
